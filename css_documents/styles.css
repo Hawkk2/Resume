@@ -1,39 +1,41 @@
 /***************************TAG SELECTORS***************************/
-
 body {
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
-
+  font-size: 130%;
 }
 
 h1 {
   margin-top: 0;
   font-family: 'Yellowtail', cursive;
-    }
+  font-size: 400%;
+  color: ;
+  font-weight:lighter;
+  line-height: 2;
+}
 
 h2 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat', serif;
+  font-size: 1.5em;
+  color: ;
+  font-weight: normal;
 }
 
 h3 {
-  font-family: 'Montserrat', sans-serif;
-}
-
-.header {
-  font-size: 50px;
+  font-family: 'Montserrat', serif;
+  font-size: 125%;
 }
 
 .top-container {
   background-color: #DEB6AB;
   position: relative;
-  padding-top: 400px;
+  padding-top: 17%;
   padding-bottom: 0px;
 }
 
 .mid-container {
-background-color: #FF8FB1;
-
+  background-color: #FF8FB1;
 }
 
 .bottom-container {
@@ -43,9 +45,20 @@ background-color: #FF8FB1;
 div {
   background-color: #FCE2DB;
 }
+.Work-Exp {
+  line-: 2;
+}
+
+.skills-row {
+
+  width: 50%;
+  margin: auto;
+  font-size:
+}
 
 .pro {
   text-decoration: underline;
+  font-size: 110%
 }
 
 .mount {
@@ -57,17 +70,21 @@ div {
   padding-top: 200px;
   padding-bottom: 100px;
 }
+
 .top-cloud {
   position: absolute;
   right: 300px;
   top: 50px;
+  width: 21%;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 300px;
-  bottom: 300px;
+  left: 250px;
+  bottom: 400px;
+  width: 20%;
 }
+
 font-family: 'Merriweather', serif;
 font-family: 'Montserrat', sans-serif;
 font-family: 'Sacramento', cursive;
