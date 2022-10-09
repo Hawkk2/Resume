@@ -51,7 +51,7 @@ div {
 
 .skills-row {
 
-  width: 50%;
+  width: 20%;
   margin: auto;
   font-size:
 }
@@ -59,6 +59,11 @@ div {
 .pro {
   text-decoration: underline;
   font-size: 110%
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
 }
 
 .mount {
