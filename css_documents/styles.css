@@ -17,14 +17,14 @@ h1 {
 
 h2 {
   font-family: 'Montserrat', serif;
-  font-size: 1.5em;
-  color: ;
-  font-weight: normal;
+  font-size: 125%;
 }
 
 h3 {
   font-family: 'Montserrat', serif;
-  font-size: 125%;
+  font-size: 1.5em;
+  color: ;
+  font-weight: normal;
 }
 
 .top-container {
@@ -40,12 +40,16 @@ h3 {
 
 .bottom-container {
   background-color: #B270A2;
+  padding: 5%;
 }
 
 div {
   background-color: #FCE2DB;
 }
 .Work-Exp {
+  width: 70%;
+  margin: auto;
+  padding: 50px;
   line-: 2;
 }
 
@@ -71,14 +75,38 @@ div {
   margin: auto;
 }
 
+.hawk {
+  background-color: #DEB6AB;
+  position: absolute;
+  bottom: 300px;
+  left: 700px;
+
+}
+
 .mount {
   position: relative;
   padding-top: 400px;
+  margin: auto;
 }
 
 .me {
   padding-top: 200px;
   padding-bottom: 100px;
+}
+
+.contact-me {
+  padding: 5%;
+  line-height: 200%;
+
+}
+
+.footer-link {
+  padding-right: 15%;
+  margin: auto;
+}
+
+.footer-link3 {
+  padding-left: 15%;
 }
 
 .top-cloud {
@@ -129,4 +157,4 @@ div {
 font-family: 'Merriweather', serif;
 font-family: 'Montserrat', sans-serif;
 font-family: 'Sacramento', cursive;
-
+/***************************CLASS SELECTORS***************************/
