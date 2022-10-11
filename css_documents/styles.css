@@ -78,9 +78,9 @@ div {
 .hawk {
   background-color: #DEB6AB;
   position: absolute;
-  bottom: 300px;
-  left: 700px;
-
+  bottom: 35%;
+  left: 30%;
+  right: 30%;
 }
 
 .mount {
