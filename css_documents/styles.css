@@ -80,8 +80,9 @@ div {
 .hawk {
   background-color: #DEB6AB;
   position: absolute;
-  bottom: 300px;
-  left: 700px;
+  bottom: 20%;
+  left: 35%;
+  right: 35%;
 }
 
 .mount {
@@ -120,8 +121,8 @@ div {
 .bottom-cloud {
   position: absolute;
   left: 250px;
-  bottom: 400px;
-  width: 20%;
+  bottom: 10%;
+  width: 7%;
 }
 
 .btn {
