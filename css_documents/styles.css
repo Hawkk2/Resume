@@ -60,7 +60,7 @@ div {
 }
 
 .table {
-  position: relative;
+  position: absolute;
   margin: auto;
   left: 5%;
   right: 5%;
