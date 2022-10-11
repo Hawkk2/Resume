@@ -30,7 +30,7 @@ h3 {
 .top-container {
   background-color: #DEB6AB;
   position: relative;
-  padding-top: 17%;
+  padding-top: 10%;
   padding-bottom: 0px;
 }
 
@@ -60,10 +60,8 @@ div {
 }
 
 .table {
-  position: absolute;
+  position: relative;
   margin: auto;
-  left: 15%;
-  right: 15%;
 }
 
 .pro {
@@ -80,9 +78,8 @@ div {
 .hawk {
   background-color: #DEB6AB;
   position: absolute;
-  bottom: 35%;
-  left: 35%;
-  right: 35%;
+  bottom: 300px;
+  left: 700px;
 }
 
 .mount {
@@ -120,8 +117,8 @@ div {
 
 .bottom-cloud {
   position: absolute;
-  left: 6%;
-  bottom: 15%;
+  left: 250px;
+  bottom: 400px;
   width: 20%;
 }
 
